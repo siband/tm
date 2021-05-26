@@ -29,3 +29,10 @@ my email : <gimsiwan58@gmail.com>
 #### 2. 이미지 프로젝트
 > [크롬](https://www.google.co.kr/)
 >>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
+>>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2
+
+#### 3. 학습 후 테스트
+
+#### 4. 모델 내보내기
++Tensorflow.js -> Upload(shareable link) 생성하여 확인해 보기
+   + link 주소 복사하기
