@@ -17,3 +17,6 @@
 ##인공지능프로그램으로 
 
 my email : <gimsiwan58@gmail.com>
+
+
+### [작성방법] : boom :
