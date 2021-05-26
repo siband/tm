@@ -36,3 +36,6 @@ my email : <gimsiwan58@gmail.com>
 #### 4. 모델 내보내기
 + Tensorflow.js -> Upload(shareable link) 생성하여 확인해 보기
    + link 주소 복사하기
+
+#### 5.깃허브에 로그인
+![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
