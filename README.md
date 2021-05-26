@@ -39,3 +39,5 @@ my email : <gimsiwan58@gmail.com>
 
 #### 5.깃허브에 로그인
 ![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
+
+#### 6.fork 하기 (생략)
