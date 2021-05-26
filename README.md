@@ -10,10 +10,7 @@
 >>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
 >>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2
 
-#### 3. 학습 후 테스트
-
-
-#### 5.깃허브에 로그인
+#### 3.깃허브에 로그인
 ![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 
 + https://siband.github.io/tm/
