@@ -28,3 +28,4 @@ my email : <gimsiwan58@gmail.com>
 
 ####2. 이미지 프로젝트
 > [네이버](https://www.naver.com/)
+>>이미지 프로젝트 선태 : 
