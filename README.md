@@ -34,5 +34,5 @@ my email : <gimsiwan58@gmail.com>
 #### 3. 학습 후 테스트
 
 #### 4. 모델 내보내기
-+Tensorflow.js -> Upload(shareable link) 생성하여 확인해 보기
++ Tensorflow.js -> Upload(shareable link) 생성하여 확인해 보기
    + link 주소 복사하기
