@@ -23,8 +23,8 @@ my email : <gimsiwan58@gmail.com>
 #### 1. 이미지 모으기
 |작업내용|비고|
 |--|--|
-|학습지에 필요한 이미지|키워드|
-|download all image 활용  | 수집 이미지 개수
+|학습지에 필요한 이미지|+키워드|
+|download all image 활용  |+수집 이미지 개수
 
 #### 2. 이미지 프로젝트
 > [크롬](https://www.google.co.kr/)
