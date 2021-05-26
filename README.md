@@ -12,6 +12,7 @@
 >>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
 >>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2
 
+깃허브 주소 : https://github.com/siband/tm
 ![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 
 
