@@ -9,7 +9,7 @@
 
 #### 2. 이미지 프로젝트
 > [크롬](https://www.google.co.kr/)
->>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train>
+>>이미지 프로젝트 선택 : https://teachablemachine.withgoogle.com/models/0cYtR0NpD/
 >>> 분류될 label에 해당하는 class명 : 클래스1, 클래스2
 
 깃허브 주소 : https://github.com/siband/tm
